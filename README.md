@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satyakoidala
 - 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m proficient in ReactJS
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me via mail at koidalasai21@gmail.com
 
